@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Description
+Project ini untuk memenuhi Ujian Akhir Semester Mata Kuliah Pemrograman Framework
+Nama : Elta Apriliani
+NIM : 221001028
+Kelas : Informatika 22A
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
