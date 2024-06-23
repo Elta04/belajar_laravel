@@ -8,9 +8,9 @@
 </p>
 
 ## Description
-Project ini untuk memenuhi Ujian Akhir Semester Mata Kuliah Pemrograman Framework
-Nama : Elta Apriliani
-NIM : 221001028
+Project ini untuk memenuhi Ujian Akhir Semester Mata Kuliah Pemrograman Framework <br>
+Nama : Elta Apriliani <br>
+NIM : 221001028 <br>
 Kelas : Informatika 22A
 
 ## About Laravel
